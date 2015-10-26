@@ -16,7 +16,7 @@ You can now push your new image to the registry:
 	docker push alejandrotorresmx/wschat
 
 
-Running your Wordpress docker image
+Running your wschat docker image
 -----------------------------------
 
 Start your image:
