@@ -26,4 +26,4 @@ RUN ln -s /usr/bin/nodejs /usr/bin/node
 EXPOSE  3000
 
 # Run
-CMD ["forever","-w", "/app/bin/www"]
+CMD ["node","/app/bin/www"]
